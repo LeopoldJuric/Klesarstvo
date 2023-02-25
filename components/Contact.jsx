@@ -89,7 +89,7 @@ export default function Contact () {
                 required>
               </input>
               <label>
-                OVIME DAJEM PRIVOLU DA "Klesarstvo Kirinec Dejan j.d.o.o" OBRAĐUJU MOJE OSOBNE PODATKE - IME I PREZIME, E-MAIL ADRESU I TELEFON U SVRHU ODGOVORA NA UPIT. VIŠE O ZAŠTITI OSOBNIH PODATAKA MOŽETE SAZNATI NA SLJEDEĆEM LINKU.
+                OVIME DAJEM PRIVOLU DA &quot;Klesarstvo Kirinec Dejan j.d.o.o&quot; OBRAĐUJU MOJE OSOBNE PODATKE - IME I PREZIME, E-MAIL ADRESU I TELEFON U SVRHU ODGOVORA NA UPIT. VIŠE O ZAŠTITI OSOBNIH PODATAKA MOŽETE SAZNATI NA SLJEDEĆEM LINKU.
               </label>
             </div>
             <button className='m-auto flex border shadow-lg p-3 mt-3 min-w-[300px] text-justify' type='submit'>Pošalji</button>

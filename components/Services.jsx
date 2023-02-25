@@ -12,7 +12,7 @@ function Services() {
               <p className='text-lg font-bold'>Naslov Usluga</p>
               <MdConstruction size={25}/>
             </div>
-            <p className='py-2 px-8 text-justify'>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
+            <p className='py-2 px-8 text-justify'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
           </div>
           <div className='p-4 my-2 w-[60%] h-auto rounded bg-gradient-to-r from-black/50 to-red-500 m-auto'>
             <div className='flex p-2 justify-center'>
@@ -20,7 +20,7 @@ function Services() {
               <p className='text-lg font-bold'>Naslov Usluga</p>
               <MdConstruction size={25}/>
             </div>
-            <p className='py-2 px-8 text-justify'>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
+            <p className='py-2 px-8 text-justify'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
           </div>
           <div className='p-4 my-2 w-[60%] h-auto rounded bg-gradient-to-r from-black/50 to-red-500 m-auto'>
             <div className='flex p-2 justify-center'>
@@ -28,7 +28,7 @@ function Services() {
               <p className='text-lg font-bold'>Naslov Usluga</p>
               <MdConstruction size={25}/>
             </div>
-            <p className='py-2 px-8 text-justify'>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
+            <p className='py-2 px-8 text-justify'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
           </div>
           <div className='p-4 my-2 w-[60%] h-auto rounded bg-gradient-to-r from-black/50 to-red-500 m-auto'>
             <div className='flex p-2 justify-center'>
@@ -36,7 +36,7 @@ function Services() {
               <p className='text-lg font-bold'>Naslov Usluga</p>
               <MdConstruction size={25}/>
             </div>
-            <p className='py-2 px-8 text-justify'>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
+            <p className='py-2 px-8 text-justify'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
           </div>
           <div className='p-4 mt-2 w-[60%] h-auto rounded bg-gradient-to-r from-black/50 to-red-500 m-auto'>
             <div className='flex p-2 justify-center'>
@@ -44,7 +44,7 @@ function Services() {
               <p className='text-lg font-bold'>Naslov Usluga</p>
               <MdConstruction size={25}/>
             </div>
-            <p className='py-2 px-8 text-justify'>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
+            <p className='py-2 px-8 text-justify'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit</p>
           </div>
         </div>
     </div>
