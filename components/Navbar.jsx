@@ -28,7 +28,7 @@ const Navbar = () => {
     <div style={{backgroundColor: `${color}`}} className='fixed left-0 top-0 w-full z-10 ease-in duration-300 border-b-2 border-black'>
         <div className='max-w-[1240px] m-auto flex justify-between items-center p-4 text-white'>
             <Link href='/' className='w-[200px] bg-white'>
-                <img src='/images/logo.png' className='p-4'/>
+                <img src='images/logo.png' className='p-4' alt=''/>
             </Link>
             <ul style={{color: `${textColor}`}} className='hidden sm:flex'>
                 <li className='p-4'>
