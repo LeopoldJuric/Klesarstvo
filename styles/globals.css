@@ -1,26 +1,78 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Raleway', sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.gallery {
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
-* {
-  box-sizing: border-box;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+  .gallery img {
+    width: 100%;
   }
-  body {
-    color: white;
-    background: black;
+
+.hero-img {
+  background-image: url(../public/images/hero.jpg);
+}
+
+.logo-img {
+  background-image: url(../public/images/logo.png);
+}
+
+.proizvod1-img {
+  background-color: #000000;
+  opacity: 1;
+  background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #000000 40px ), repeating-linear-gradient( #f6323255, #f63232 );
+}
+
+  .proizvod1-img:hover {
+    background-color: #000000;
+    opacity: 0.9;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #000000 40px ), repeating-linear-gradient( #f6323255, #f63232 );
   }
+
+.proizvod2-img {
+  background-color: #000000;
+  opacity: 1;
+  background-image:  repeating-radial-gradient( circle at 100% 0, transparent 0, #000000 40px ), repeating-linear-gradient( #f6323255, #f63232 );
+}
+
+  .proizvod2-img:hover {
+    background-color: #000000;
+    opacity: 0.9;
+    background-image:  repeating-radial-gradient( circle at 100% 0, transparent 0, #000000 40px ), repeating-linear-gradient( #f6323255, #f63232 );
+  }
+
+.proizvod3-img {
+  background-color: #000000;
+  opacity: 1;
+  background-image:  repeating-radial-gradient( circle at 0 100%, transparent 0, #000000 40px ), repeating-linear-gradient( #f6323255, #f63232 );
+}
+
+  .proizvod3-img:hover {
+    background-color: #000000;
+    opacity: 0.9;
+    background-image:  repeating-radial-gradient( circle at 0 100%, transparent 0, #000000 40px ), repeating-linear-gradient( #f6323255, #f63232 );
+  }
+
+.proizvod4-img {
+  background-color: #000000;
+  opacity: 1;
+  background-image:  repeating-radial-gradient( circle at 100% 100%, transparent 0, #000000 40px ), repeating-linear-gradient( #f6323255, #f63232 );
+}
+
+  .proizvod4-img:hover {
+    background-color: #000000;
+    opacity: 0.9;
+    background-image:  repeating-radial-gradient( circle at 100% 100%, transparent 0, #000000 40px ), repeating-linear-gradient( #f6323255, #f63232 );
+  }
+
+
+.pattern {
+  background: url(../public/images/socials_pattern.svg);
+  background-size: cover;
 }
