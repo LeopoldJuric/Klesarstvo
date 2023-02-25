@@ -4,13 +4,39 @@ import Navbar from '../components/Navbar'
 import Products from '../components/Products'
 import Slider from '../components/Slider'
 import Socials from '../components/Socials'
-import { SliderData } from '../components/SliderData'
 import Services from '../components/Services'
 import Cookie from '../components/Cookie'
 import Contact from '../components/Contact'
 import Maps from '../components/Maps'
 
 export default function Home() {
+
+  const SliderData = [
+    {
+        image:
+        '../public/images/gallery/IMG-20230121-WA0004.jpg'
+    },
+
+    {
+        image:
+        '../public/images/gallery/IMG-20230121-WA0006.jpg'
+    },
+
+    {
+        image:
+        '../public/images/gallery/IMG-20230121-WA0007.jpg'
+    },
+
+    {
+        image:
+        '../public/images/gallery/IMG-20230121-WA0008.jpg'
+    },
+
+    {
+        image:
+        '../public/images/gallery/IMG-20230121-WA0009.jpg'
+    },
+]
 
   return (
     <div className='overflow-x-hidden'>
