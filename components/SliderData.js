@@ -1,26 +1,26 @@
 export const SliderData = [
     {
         image:
-        '/images/slider1.jpg'
+        '../public/images/gallery/IMG-20230121-WA0004.jpg',
     },
 
     {
         image:
-        '/images/slider2.jpg'
+        '../public/images/gallery/IMG-20230121-WA0006.jpg',
     },
 
     {
         image:
-        '/images/slider3.jpg'
+        '../public/images/gallery/IMG-20230121-WA0007.jpg',
     },
 
     {
         image:
-        '/images/slider4.jpg'
+        '../public/images/gallery/IMG-20230121-WA0008.jpg',
     },
 
     {
         image:
-        '/images/slider5.jpg'
+        '../public/images/gallery/IMG-20230121-WA0009.jpg',
     },
 ]
