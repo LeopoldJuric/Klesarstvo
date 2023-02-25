@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import React, { useState } from 'react'
+import { SliderData } from './SliderData'
 import { FaArrowCircleLeft, FaArrowCircleRight } from 'react-icons/fa'
 import Link from 'next/link'
 
@@ -19,33 +20,6 @@ function Slider({slides}) {
     if (!Array.isArray(slides) || slides.length <= 0) {
         return null;
     }
-
-    const SliderData = [
-        {
-            image:
-            '/images/gallery/IMG-20230121-WA0004.jpg'
-        },
-    
-        {
-            image:
-            '/images/gallery/IMG-20230121-WA0006.jpg'
-        },
-    
-        {
-            image:
-            '/images/gallery/IMG-20230121-WA0007.jpg'
-        },
-    
-        {
-            image:
-            '/images/gallery/IMG-20230121-WA0008.jpg'
-        },
-    
-        {
-            image:
-            '/images/gallery/IMG-20230121-WA0009.jpg'
-        },
-    ]
 
 
   return (
