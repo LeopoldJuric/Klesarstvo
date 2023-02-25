@@ -77,8 +77,3 @@ html {
   background-size: cover;
 }
 
-.logojpg {
-  background-image: url(../public/images/logo.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
