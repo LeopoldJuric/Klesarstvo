@@ -4,15 +4,20 @@ import { SliderData } from './SliderData'
 import { FaArrowCircleLeft, FaArrowCircleRight } from 'react-icons/fa'
 import Link from 'next/link'
 import SimpleImageSlider from 'react-simple-image-slider'
+import url1 from '../public/images/gallery/IMG-20230121-WA0004.jpg'
+import url2 from '../public/images/gallery/IMG-20230121-WA0006.jpg'
+import url3 from '../public/images/gallery/IMG-20230121-WA0007.jpg'
+import url4 from '../public/images/gallery/IMG-20230121-WA0008.jpg'
+import url5 from '../public/images/gallery/IMG-20230121-WA0009.jpg'
 
 function Slider() {
 
     const images = [
-        { url: "/images/gallery/IMG-20230121-WA0004.jpg" },
-        { url: "/images/gallery/IMG-20230121-WA0006.jpg" },
-        { url: "/images/gallery/IMG-20230121-WA0007.jpg" },
-        { url: "/images/gallery/IMG-20230121-WA0008.jpg" },
-        { url: "/images/gallery/IMG-20230121-WA0009.jpg" },
+        url1,
+        url2,
+        url3,
+        url4,
+        url5
       ];
 
 
