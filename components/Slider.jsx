@@ -14,12 +14,12 @@ function Slider() {
 
 
   return (
-    <div id='gallery' className='max-w-[1240px] mx-auto py-2'>
+    <div id='gallery' className='md:max-w-[1240px] mx-auto py-2'>
         <h1 className='text-2xl font-bold text-center p-8'>Galerija</h1>
-        <div className='relative flex justify-center p-4'>
+        <div className='relative flex justify-center p-2 pr-[200px]'>
             <SimpleImageSlider
-                width={896}
-                height={504}
+                width="90%"
+                height="1000px"
                 images={images}
                 showBullets={true}
                 showNavs={true}
