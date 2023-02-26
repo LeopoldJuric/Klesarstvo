@@ -19,7 +19,7 @@ function Slider() {
         <div className='relative flex justify-center p-2 pr-[200px]'>
             <SimpleImageSlider
                 width="90%"
-                height="1000px"
+                height="70vh"
                 images={images}
                 showBullets={true}
                 showNavs={true}
