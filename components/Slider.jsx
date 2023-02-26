@@ -28,11 +28,11 @@ function Slider() {
                 autoPlayDelay={3.5}
             />
         </div>
+        <Link href='/galerija'>
             <button className='pattern text-white m-auto flex p-4 rounded duration-300 hover:text-white/50'>
-                <Link href='/galerija'>
-                    Prikaži još
-                </Link>
+                Prikaži još
             </button>
+        </Link>
         </div>
   )
 }
