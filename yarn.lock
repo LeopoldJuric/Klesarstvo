@@ -1863,6 +1863,11 @@ react-is@^16.13.1:
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-simple-image-slider@^2.4.1:
+  version "2.4.1"
+  resolved "https://registry.npmjs.org/react-simple-image-slider/-/react-simple-image-slider-2.4.1.tgz"
+  integrity sha512-9T/WjsRThJup43QxzH202rLVNqaUK9P8izTiWOfLcc5w3QygU44a9IQUuIwGYiXtWvw2spRRGLRc5Xd62/vfDg==
+
 react-simple-image-viewer@^1.2.2:
   version "1.2.2"
   resolved "https://registry.npmjs.org/react-simple-image-viewer/-/react-simple-image-viewer-1.2.2.tgz"
